@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x81a0cab140ACFc4Ec98c49ed6D04831cE97260b7",
+  "SCAN_LINK": "https://etherscan.io/address/0x81a0cab140ACFc4Ec98c49ed6D04831cE97260b7",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Panda Ballers NFT",
+  "SYMBOL": "PB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
