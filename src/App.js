@@ -253,7 +253,7 @@ function App() {
               maxWidth: '600px'
             }}
           >
-            <s.TextTitle
+            {/* <s.TextTitle
               style={{
                 textAlign: "center",
                 fontSize: 50,
@@ -262,7 +262,7 @@ function App() {
               }}
             >
               {data.totalSupply} / {(data.maxSupply !== 0) ? data.maxSupply : CONFIG.MAX_SUPPLY}
-            </s.TextTitle>
+            </s.TextTitle> */}
             <s.TextDescription
               style={{
                 textAlign: "center",
